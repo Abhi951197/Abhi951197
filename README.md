@@ -7,7 +7,7 @@ I'm currently pursuing a Bachelor of Engineering in Information Technology at Vi
 
 - Proficient in coding languages: **C, Java, HTML5, CSS3, JavaScript.**
 - Strong foundation in **Data Structures**.
-- 
+ 
 ### 💻 Coding Passion
 
 - Actively working on various coding projects (coming soon to GitHub).
