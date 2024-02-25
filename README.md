@@ -24,6 +24,5 @@ I'm currently pursuing a Bachelor of Engineering in Information Technology at Vi
 
 - Email: cabhishekpal@gmail.com
 
-I may not have uploaded my projects yet, but stay tuned for upcoming additions! Feel free to connect, and let's explore the world of coding together.
 
 ---
