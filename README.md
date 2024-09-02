@@ -6,6 +6,7 @@ I'm currently pursuing a Bachelor of Engineering in Information Technology at Vi
 ### 📚 What I've Learned
 
 - Proficient in coding languages: **C, Java, HTML5, CSS3, Python with Flask.**
+- **MACHINE LEARNING**
 - Strong foundation in **Data Structures**.
  
 ### 💻 Coding Passion
