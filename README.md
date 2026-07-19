@@ -73,64 +73,6 @@ ENGINEERING    Git, GitHub, Docker basics, deployment workflows, Linux basics
 
 ---
 
-## FEATURED SYSTEMS
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3>NeuralTraffic</h3>
-      <p><b>AI-driven dynamic traffic signal management.</b></p>
-      <pre>Vehicle detections -> density + priority -> adaptive timing</pre>
-      <p>
-        <a href="https://github.com/Abhi951197/NeuralTraffic">Repository</a> |
-        <a href="https://www.routledge.com/Advances-in-Science-and-Technology/Sunnapwar-Chavan-Ansari/p/book/9781041303756">Publication</a>
-      </p>
-      <p><code>Computer Vision</code> <code>Traffic Optimization</code> <code>Research</code></p>
-    </td>
-    <td width="50%">
-      <h3>Draupadi AI</h3>
-      <p><b>Real-time AI safety system for distress detection.</b></p>
-      <pre>Screams + keywords + reports -> alerts + hotspot context</pre>
-      <p><a href="https://github.com/Abhi951197/Draupadi_AI">Repository</a></p>
-      <p><code>Audio AI</code> <code>Flask</code> <code>Safety Tech</code> <code>Maps</code></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>MedScribe AI</h3>
-      <p><b>Clinical note automation and emergency triage assistant.</b></p>
-      <pre>Speech -> summary -> treatment support -> red-flag alerts</pre>
-      <p><a href="https://github.com/Abhi951197/MedScribe-AI">Repository</a></p>
-      <p><code>Generative AI</code> <code>ASR</code> <code>Healthcare</code> <code>Python</code></p>
-    </td>
-    <td width="50%">
-      <h3>Multimodal Recommender</h3>
-      <p><b>Context-aware recommendations from text and image inputs.</b></p>
-      <pre>Text/image query -> NLP features -> similarity matching</pre>
-      <p><a href="https://github.com/Abhi951197/MultiModal-Recommender-System">Repository</a></p>
-      <p><code>NLP</code> <code>Recommendation Systems</code> <code>Similarity Search</code></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>Wordle Unlimited Party</h3>
-      <p><b>Competitive word game with unlimited play and riddle hints.</b></p>
-      <pre>Guess -> score -> hint -> compete</pre>
-      <p><a href="https://github.com/Abhi951197/Wordle-Unlimited-Party">Repository</a></p>
-      <p><code>TypeScript</code> <code>Game Logic</code> <code>Product Design</code></p>
-    </td>
-    <td width="50%">
-      <h3>SpinNdine</h3>
-      <p><b>Constraint-aware group dining decision engine.</b></p>
-      <pre>Preferences + distance + cuisine + rating -> one decision</pre>
-      <p><a href="https://github.com/Abhi951197/spinNdine">Repository</a></p>
-      <p><code>TypeScript</code> <code>Decision Engine</code> <code>UX Logic</code></p>
-    </td>
-  </tr>
-</table>
-
----
-
 ## RESEARCH TRANSMISSION
 
 <p align="center">
@@ -146,24 +88,6 @@ BOOK       Advances in Science and Technology
 YEAR       2026
 DOMAIN     Computer Vision, Intelligent Transportation
 ```
-
----
-
-## BUILD PIPELINE
-
-```mermaid
-flowchart LR
-    A[Problem] --> B[Data]
-    B --> C[Model]
-    C --> D[API]
-    D --> E[Interface]
-    E --> F[Decision]
-    F --> G[Impact]
-```
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=80&color=0:020617,100:082f49&text=Problem%20-%3E%20Data%20-%3E%20Model%20-%3E%20API%20-%3E%20Interface%20-%3E%20Impact&fontColor=67e8f9&fontSize=20&animation=twinkling" alt="Build pipeline animation" />
-</p>
 
 ---
 
@@ -202,8 +126,11 @@ COLLABORATE    AI / ML projects with measurable real-world impact
 ```
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random developer quote" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1200&color=F97316&center=true&vCenter=true&width=900&lines=%22As+long+as+I%27m+alive%2C+I+have+infinite+chances%21%22;Monkey+D.+Luffy" alt="As long as I'm alive, I have infinite chances! - Monkey D. Luffy" />
 </p>
+
+<h3 align="center">"As long as I'm alive, I have infinite chances!"</h3>
+<p align="center"><b>Monkey D. Luffy</b></p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:2C5364,55:203A43,100:0F2027&animation=fadeIn" alt="Footer wave" />
